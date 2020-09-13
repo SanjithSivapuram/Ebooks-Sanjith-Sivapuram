@@ -1,38 +1,101 @@
-.App {
-  text-align: center;
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.login {
+  background-color: #f5502d;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.form-box {
+  margin: 0px auto;
+  padding: 60px 0px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.navbar {
+  background-color: #f5502d;
+}
+
+.navbar-brand {
+  color: white !important;
+}
+
+.navbar-toggler>span {
+  color: white !important;
+  transform: translate(-10px, 0);
+}
+
+.logoutbtn {
+  color: white;
+  background-color: transparent;
+  border: none;
+  transition: 0.3s linear;
+}
+
+.logoutbtn:hover {
+  color: #f5502d;
+  background-color: white;
+}
+
+.card {
+  padding-top: 30px;
+  width: 320px;
+  height: 200px;
+}
+
+.openbtn {
+  background-color: transparent;
+  color: #f5502d;
+  padding: 10px 0px;
+  border-color: #f5502d !important;
+  transition: 0.3s linear;
+}
+
+.openbtn:hover {
+  background-color: #f5502d;
+  color: white;
+}
+
+.inbook {
+  background-color: #f5502d;
+  color: white;
+}
+
+.content {
+  background-color: white;
+  color: black;
+  padding: 20px 20px;
+}
+
+.password-icon {
+  color: black;
+}
+
+.card {
+  border-color: #f5502d;
+  border-width: 2px;
+  transition: 0.3s linear;
+}
+
+.card:hover {
+  box-shadow: 0px 0px 20px 3px rgba(97, 97, 97, 0.71);
+  border: 2px solid transparent;
+}
+
+.userdetails {
+  color: #f5502d;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.bookbg {
+  background-image: url('shared/bookbg.jpg');
+}
+
+.heading {
+  color: #f5502d;
+  background-color: white;
+  border-radius: 50px;
+  padding: 10px;
 }
