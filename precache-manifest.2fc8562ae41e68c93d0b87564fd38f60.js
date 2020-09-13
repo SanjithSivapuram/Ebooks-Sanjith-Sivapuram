@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6a13939f0713eb1f0295f625941a7c2",
+    "revision": "57e63a2e7349643b589f055bed84e1b4",
     "url": "/Ebooks-Sanjith-Sivapuram/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ebooks-Sanjith-Sivapuram/static/css/2.1d08211b.chunk.css"
   },
   {
-    "revision": "365d6780099924b63f3a",
-    "url": "/Ebooks-Sanjith-Sivapuram/static/css/main.5cb5748a.chunk.css"
+    "revision": "7f713cf76752b5979b84",
+    "url": "/Ebooks-Sanjith-Sivapuram/static/css/main.8e0d99c5.chunk.css"
   },
   {
     "revision": "887373654f37a6c1aa88",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ebooks-Sanjith-Sivapuram/static/js/2.730ae887.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "365d6780099924b63f3a",
-    "url": "/Ebooks-Sanjith-Sivapuram/static/js/main.f70ac598.chunk.js"
+    "revision": "7f713cf76752b5979b84",
+    "url": "/Ebooks-Sanjith-Sivapuram/static/js/main.89fc7a05.chunk.js"
   },
   {
     "revision": "066d53c0bc486578f5ef",

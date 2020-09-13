@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Ebooks-Sanjith-Sivapuram/precache-manifest.3c927c30273feaa162e05f631ab3f06b.js"
+  "/Ebooks-Sanjith-Sivapuram/precache-manifest.2fc8562ae41e68c93d0b87564fd38f60.js"
 );
 
 self.addEventListener('message', (event) => {
