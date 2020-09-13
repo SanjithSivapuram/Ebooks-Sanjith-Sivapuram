@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Ebooks-Sanjith-Sivapuram/static/css/main.5cb5748a.chunk.css",
+    "main.js": "/Ebooks-Sanjith-Sivapuram/static/js/main.f70ac598.chunk.js",
+    "main.js.map": "/Ebooks-Sanjith-Sivapuram/static/js/main.f70ac598.chunk.js.map",
+    "runtime-main.js": "/Ebooks-Sanjith-Sivapuram/static/js/runtime-main.2bce5081.js",
+    "runtime-main.js.map": "/Ebooks-Sanjith-Sivapuram/static/js/runtime-main.2bce5081.js.map",
+    "static/css/2.1d08211b.chunk.css": "/Ebooks-Sanjith-Sivapuram/static/css/2.1d08211b.chunk.css",
+    "static/js/2.730ae887.chunk.js": "/Ebooks-Sanjith-Sivapuram/static/js/2.730ae887.chunk.js",
+    "static/js/2.730ae887.chunk.js.map": "/Ebooks-Sanjith-Sivapuram/static/js/2.730ae887.chunk.js.map",
+    "index.html": "/Ebooks-Sanjith-Sivapuram/index.html",
+    "precache-manifest.3c927c30273feaa162e05f631ab3f06b.js": "/Ebooks-Sanjith-Sivapuram/precache-manifest.3c927c30273feaa162e05f631ab3f06b.js",
+    "service-worker.js": "/Ebooks-Sanjith-Sivapuram/service-worker.js",
+    "static/css/2.1d08211b.chunk.css.map": "/Ebooks-Sanjith-Sivapuram/static/css/2.1d08211b.chunk.css.map",
+    "static/css/main.5cb5748a.chunk.css.map": "/Ebooks-Sanjith-Sivapuram/static/css/main.5cb5748a.chunk.css.map",
+    "static/js/2.730ae887.chunk.js.LICENSE.txt": "/Ebooks-Sanjith-Sivapuram/static/js/2.730ae887.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Ebooks-Sanjith-Sivapuram/static/media/bookbg.809949fc.jpg",
+    "static/media/font-awesome.min.css": "/Ebooks-Sanjith-Sivapuram/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bce5081.js",
+    "static/css/2.1d08211b.chunk.css",
+    "static/js/2.730ae887.chunk.js",
+    "static/css/main.5cb5748a.chunk.css",
+    "static/js/main.f70ac598.chunk.js"
+  ]
+}
